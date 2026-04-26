@@ -1,4 +1,3 @@
-venv/
-__pycache__/
-.ipynb_checkpoints/
-*.pyc
+.venv
+Final_Project_NN_Complete.ipynb
+Final_Project_NN_JT.ipynb
